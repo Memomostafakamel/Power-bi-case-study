@@ -48,7 +48,9 @@ The dashboards help stakeholders monitor performance, identify trends, and explo
 ### Dark mode:
 <img width="1324" height="745" alt="Profit dashboard dark mode" src="https://github.com/user-attachments/assets/a2168f8b-afb4-4931-9b6e-04b69477c680" />
 <img width="1323" height="744" alt="Sales dashboard dark mode" src="https://github.com/user-attachments/assets/c175f871-75a6-4c0c-9cbf-a62f384a8f66" />
+
 ### Light mode:
+
 <img width="1331" height="745" alt="Profit dashboard light mode" src="https://github.com/user-attachments/assets/7c0dcde2-195f-4e35-98f7-b5b68d37c6a3" />
 <img width="1330" height="748" alt="Sales dashboard light mode" src="https://github.com/user-attachments/assets/c64cfa1e-eb00-4e58-9679-7535e7db6365" />
 
