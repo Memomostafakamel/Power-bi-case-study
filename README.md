@@ -1,4 +1,4 @@
-# 📊 End-to-End Sales Analysis – 7 Interactive Dashboards (Dark & Light Mode)
+# 📊 Sales Analysis – 7 Interactive Dashboards (Dark & Light Mode)
 
 ## 📌 Overview  
 This project showcases a complete end-to-end Sales Analysis solution developed in Power BI.  
