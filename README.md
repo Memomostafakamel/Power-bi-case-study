@@ -36,9 +36,8 @@ The dashboards help stakeholders monitor performance, identify trends, and explo
 <hr/>
 
 ## 📂 Files Included  
-
-- Raw & Cleaned Data Files  
-- Power BI Dashboard File (.pbix)  
+ 
+- Power BI Dashboard File (.pbix) [Click here to downliad the file](power_bi_project.pbix)
 - UI Design Files (Figma)
 
   <hr/>
