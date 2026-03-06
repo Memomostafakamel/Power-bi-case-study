@@ -38,6 +38,7 @@ The dashboards help stakeholders monitor performance, identify trends, and explo
 ## 📂 Files Included  
  
 - Power BI Dashboard File (.pbix) [Click here to download the file](power_bi_project.pbix)
+- Figma backgrounds File (.pdf) [Click here to download the file](Figma_backgrounds.pdf)
 
   <hr/>
 
@@ -52,4 +53,6 @@ The dashboards help stakeholders monitor performance, identify trends, and explo
 <img width="1331" height="745" alt="Profit dashboard light mode" src="https://github.com/user-attachments/assets/7c0dcde2-195f-4e35-98f7-b5b68d37c6a3" />
 <img width="1330" height="748" alt="Sales dashboard light mode" src="https://github.com/user-attachments/assets/c64cfa1e-eb00-4e58-9679-7535e7db6365" />
 
+<hr/>
 
+If you liked the project,Don't forget to star the repository🌟
